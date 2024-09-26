@@ -1,5 +1,5 @@
-import env from "./env.js";
-env();
+//import env from "./env.js";
+//env();
 import Discord from "discord.js";
 import App from "./class/App.js";
 import { commandJSON } from "./commands/index.js";
